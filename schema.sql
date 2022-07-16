@@ -13,3 +13,19 @@ CREATE TABLE animals (
 );
 
 alter table animals add column species varchar(100); 
+
+CREATE TABLE owners(
+    id INT GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
+    full_name varchar(100),
+    age INT
+);
+
+CREATE TABLE species(
+    id INT GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
+    name varchar(100)
+);
+
+alter table animals add PRIMARY KEY (id);
+alter table animals drop column species;
+alter table animals add species_id INT REFERENCES species(id);
+alter table animals add owner_id INT REFERENCES owners(id);

@@ -2,6 +2,8 @@
 
 > In this project I have used a relational database to create the initial data structure for a vet clinic. I created a table to store information about animals, insert data into it and write some queries for it. 
 
+![image](https://user-images.githubusercontent.com/67911212/179798585-31538080-3edc-4422-bcc6-3fb4fd29b1fd.png)
+
 ## Technologies used:
 - PostgreSQL
 

@@ -15,6 +15,12 @@
   - [Twitter](https://twitter.com/hs_devv)
   - [LinkedIn](https://www.linkedin.com/in/-hammadsiddique/)
 
+👤 **Ghilain Ishimwe** <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="20"/>
+
+  - [GitHub](https://github.com/Ghilain)
+  - [Twitter](https://twitter.com/GhilainIshimwe)
+  - [LinkedIn](https://www.linkedin.com/in/ghilain-ishimwe/)
+
 
 ## 🤝 Contributing
 
